@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PTspxF63w1/LSzP2MlIkAX3EUp6IVeXDw+cOG/fWymeBHXgjO/d74Rj5X3QeS4axB7wXxWdN1Z/0ft6L8u3gAg==",
+  "dgSpecHash": "Gl3kE/FLi/q1GhL19ymOjNUMVFOWtsrbagDZwkp6STLI99f49Gv5R+miR5iurgRrdJ5rtKzd7/I/cnSY4wCwcA==",
   "success": true,
-  "projectFilePath": "/Users/vanyachernov/Desktop/All/Проекты/Console/Groups/Groups/Groups.csproj",
+  "projectFilePath": "E:\\gp\\Groups\\Groups.csproj",
   "expectedPackageFiles": [
-    "/Users/vanyachernov/.nuget/packages/mstest.testframework/3.2.2/mstest.testframework.3.2.2.nupkg.sha512",
-    "/Users/vanyachernov/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\mstest.testframework\\3.2.2\\mstest.testframework.3.2.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
   ],
   "logs": []
 }
